@@ -17,7 +17,6 @@ class App extends React.Component {
     return (
       <div>
         <Header/>
-        <h1>Hello</h1>
         <MemeGenerator />
       </div>
     )
